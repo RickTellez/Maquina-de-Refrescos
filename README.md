@@ -1,5 +1,5 @@
 # Proyecto: Maquina de Refrescos 
-  **Integrantes:**
+  **Integrantes:**  
   Josue Gutierrez López  
   Jennifer Ocaranza Morales  
   Ricardo Téllez Quintana  
