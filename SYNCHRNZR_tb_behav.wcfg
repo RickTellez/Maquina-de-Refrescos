@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="SYNCHRNZR_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="SYNCHRNZR_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="817.001 ns"></ZoomEndTime>
+      <Cursor1Time time="453.500 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="202"></NameColumnWidth>
+      <ValueColumnWidth column_width="143"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/SYNCHRNZR_tb/CLK_tb" type="logic">
+      <obj_property name="ElementShortName">CLK_tb</obj_property>
+      <obj_property name="ObjectShortName">CLK_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_IN_tb" type="logic">
+      <obj_property name="ElementShortName">MC_IN_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_IN_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_OUT_tb" type="logic">
+      <obj_property name="ElementShortName">MC_OUT_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_OUT_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_IN2_tb" type="logic">
+      <obj_property name="ElementShortName">MC_IN2_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_IN2_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_OUT2_tb" type="logic">
+      <obj_property name="ElementShortName">MC_OUT2_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_OUT2_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_IN3_tb" type="logic">
+      <obj_property name="ElementShortName">MC_IN3_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_IN3_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_OUT3_tb" type="logic">
+      <obj_property name="ElementShortName">MC_OUT3_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_OUT3_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_IN4_tb" type="logic">
+      <obj_property name="ElementShortName">MC_IN4_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_IN4_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/MC_OUT4_tb" type="logic">
+      <obj_property name="ElementShortName">MC_OUT4_tb</obj_property>
+      <obj_property name="ObjectShortName">MC_OUT4_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SYNCHRNZR_tb/CLK_PERIOD" type="other">
+      <obj_property name="ElementShortName">CLK_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">CLK_PERIOD</obj_property>
+   </wvobject>
+</wave_config>
