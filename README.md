@@ -10,5 +10,5 @@
 ![Diagrama RTL](Diagrama%20RTL.jpeg)  
 ## Diagramas de estados
 **Versión 1**  
-![Diagrama RTL](Diagrama%20de%20estados%201.jpeg)
+![Diagrama RTL](Diagrama%RTL.jpeg)
 
